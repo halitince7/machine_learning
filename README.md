@@ -1,2 +1,2 @@
 # machine_learning
-my machine learning studies and projects
+My machine learning studies and projects
